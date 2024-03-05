@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: d91522a83b04b5c4784f500851eb2e78
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flat_white_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8fe3f4136c3647a9a800b1b7adca9
+      internalID: 1538145439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8ffda0ce847a41a95ff6ea37a7e44
+      internalID: -838896782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16893e8eaae4e424b85aa69d7fafa478
+      internalID: -203813081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_3
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2014edeca3af38347be54c7142858c68
+      internalID: 137761935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_4
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02081a758d8b1a54094f988af52e8939
+      internalID: -1508764745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_5
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fd07cd3f11f9419486862ef010778
+      internalID: -1288434175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_6
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d4ce10d91bd64b966d6cb147c54ae
+      internalID: 2106814380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_7
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cbd358d30278c4496212a61eed1cf5
+      internalID: -1403590870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_8
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2690
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1869dd20b02898947b0cf1f5f55fd36c
+      internalID: 954814074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e34be7919d5b45a57d9b429b6d513
+      internalID: -1266744253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da0155c630adf4280c44c3c49efe57
+      internalID: 1418833936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_11
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4fa2c847075c42883bc9af81a438f
+      internalID: 1439659956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_12
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dbce15cec8c234fbccaff2d6354228
+      internalID: 2005351225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_13
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18735163c6aec46b41448045f22f83
+      internalID: -2108742436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_14
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b79f126bf6148418cb939c0dc6f8d3
+      internalID: -1868579886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_15
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618fe9187717494aa134f37009e005e
+      internalID: 697446674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_16
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1de7b208a0224294526954e01845a
+      internalID: -592168070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_17
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2152
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ad14cd95edbb4ab9dbb72a6fcdf06
+      internalID: -1379993872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aad048eb135f1459a9e38c414d0b8d
+      internalID: -94822766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8680e3e571f0548baf2e6bf78cdd22
+      internalID: 245269768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047f0688b3faefa4a889c5150e83745e
+      internalID: 929198545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_21
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979929facfe444a46be425d000c9a75b
+      internalID: -361687145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_22
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340df08bf5b7254ebeef78b30f9f3d0
+      internalID: 2029117019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_23
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8535e8b1899bc4ea2fc1629d91d0ce
+      internalID: 1763758812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_24
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19e3093c47d7440ba6c665e5a52e3c
+      internalID: -311973559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_25
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae303551549bf254ca2cee10ac5015d8
+      internalID: 992750369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_26
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1614
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4036617bffa40488e152037d5c1b06
+      internalID: -527425429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f1f8b7a4731984cb5f840a86e4b4c9
+      internalID: -2099377718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c34175b944acb45a3cb87977fd94d7
+      internalID: 2143982901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_29
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a225d3b3d3e45649b11a4722aac4aec
+      internalID: 175292521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_30
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19c4231400d014ead20c0e3ae743b5
+      internalID: 595624074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_31
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26e837fb8037b428b197f7cb1dd5b0
+      internalID: -2015525702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_32
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09299e5db05bb7447bfef3bc437105dd
+      internalID: -186100292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_33
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2dc12f523d99441a5a4031637dc082
+      internalID: -645188153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_34
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d185ec87d7d31e4c87331d8c552c068
+      internalID: 1007044223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_35
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1076
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a88e323be07e7428d7c5e00f47b3f3
+      internalID: 599203079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de29f45671f3f248b5d66af3cb0e986
+      internalID: 1781433801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45432efe7208f284baf01eaeab0c38fb
+      internalID: 773090438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_38
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4ec0ff30cdb84789617a6fb8e28df
+      internalID: 1489188784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_39
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c042a0b184b3844b4cdd6cd321e871
+      internalID: -926286479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_40
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177be9aef50aecc4fb7947239f950c29
+      internalID: 898812152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_41
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebc271a144701468abfe2eb034f1ff
+      internalID: -2132635903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_42
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516aa95a5a8af1141a20c53ac64b96a4
+      internalID: -414865491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_43
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c079c83127e9a4ab1167a866244221
+      internalID: -1168135916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_44
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 538
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab56753df35f8b4ea756575c013e6a9
+      internalID: 602393217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58e25e8e58454742a18145d27bfe482
+      internalID: 767346615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1c1248cfff0548b582274ff726eaf
+      internalID: 745289311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_47
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e206659667964abe2bd1f779b3688
+      internalID: 1379122152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_48
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84447f99a07174290472e8f89be76c
+      internalID: 304794624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_49
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e4a221fc4535c42a7c6876abb4d85a
+      internalID: 1182447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_50
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0e9487ce22cac41b992809e8f44090
+      internalID: 345351727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat_white_51
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 606
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a8f8cd3835b44ab7e073372f591f7
+      internalID: 1253301682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flat_white_21: -361687145
+      flat_white_9: -1266744253
+      flat_white_35: 599203079
+      flat_white_46: 745289311
+      flat_white_22: 2029117019
+      flat_white_32: -186100292
+      flat_white_10: 1418833936
+      flat_white_17: -1379993872
+      flat_white_30: 595624074
+      flat_white_31: -2015525702
+      flat_white_48: 304794624
+      flat_white_14: -1868579886
+      flat_white_28: 2143982901
+      flat_white_7: -1403590870
+      flat_white_23: 1763758812
+      flat_white_26: -527425429
+      flat_white_40: 898812152
+      flat_white_43: -1168135916
+      flat_white_4: -1508764745
+      flat_white_19: 245269768
+      flat_white_42: -414865491
+      flat_white_38: 1489188784
+      flat_white_24: -311973559
+      flat_white_51: 1253301682
+      flat_white_50: 345351727
+      flat_white_41: -2132635903
+      flat_white_45: 767346615
+      flat_white_6: 2106814380
+      flat_white_20: 929198545
+      flat_white_39: -926286479
+      flat_white_37: 773090438
+      flat_white_36: 1781433801
+      flat_white_27: -2099377718
+      flat_white_1: -838896782
+      flat_white_3: 137761935
+      flat_white_12: 2005351225
+      flat_white_0: 1538145439
+      flat_white_18: -94822766
+      flat_white_13: -2108742436
+      flat_white_15: 697446674
+      flat_white_25: 992750369
+      flat_white_49: 1182447822
+      flat_white_5: -1288434175
+      flat_white_16: -592168070
+      flat_white_44: 602393217
+      flat_white_8: 954814074
+      flat_white_11: 1439659956
+      flat_white_29: 175292521
+      flat_white_2: -203813081
+      flat_white_34: 1007044223
+      flat_white_47: 1379122152
+      flat_white_33: -645188153
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
